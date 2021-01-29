@@ -79,6 +79,6 @@ color:#b5622c;
 }
 footer p{margin-top:0;}
 li a:hover{color: blue;
-border: 1px solid #e6e6e6;
+transition-delay:.2s;;
 border-radius: 5px;
 background-color:#e6e6e6;}
